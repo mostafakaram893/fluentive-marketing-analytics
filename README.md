@@ -31,7 +31,7 @@ A digital marketing performance and lead generation analytics dashboard built wi
 
 - **BI Tool:** Microsoft Power BI Desktop
 - **Data Modeling:** Power Query (ETL), DAX measures
-- **Data Source:** CRM lead tracking and campaign performance data (April 2026)
+- **Data Source:** CRM lead tracking and campaign performance data (April 2026 campaigns)
 
 ## 📁 Repository Structure
 
